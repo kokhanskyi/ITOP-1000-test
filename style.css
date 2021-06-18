@@ -1,0 +1,10 @@
+button {
+  cursor: pointer;
+}
+
+#timer {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
